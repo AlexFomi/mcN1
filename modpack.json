@@ -1,0 +1,15 @@
+{
+    "formatVersion": 1,
+    "minecraft": {
+        "version": "1.20.4" /* ваша версия Minecraft */
+    },
+    "name": "MyNeoForgePack", /* имя вашей сборки */
+    "version": "1.0.0", /* версия сборки */
+    "modLoaders": [
+        {
+            "id": "neoforge-1.20.4-40.0.0", /* идентификатор NeoForge (проверьте точную версию) */
+            "primary": true
+        }
+    ],
+    "overrides": "overrides" /* указывает Technic распаковывать папку overrides в .minecraft */
+}
